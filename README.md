@@ -145,8 +145,8 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalsatpute&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalsatpute&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibo-sonalsatpute&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kibo-sonalsatpute&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9)
 
 </div>
 
@@ -162,7 +162,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=sonalsatpute&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kibo-sonalsatpute&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -172,7 +172,7 @@
 
 <div align="center">
   
-[![Sonal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalsatpute&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sonal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kibo-sonalsatpute&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -217,6 +217,7 @@
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sonalsatpute&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kibo-sonalsatpute&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### Show some ❤️ by starring some of the repositories!
 
